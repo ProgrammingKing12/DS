@@ -6,7 +6,7 @@ local whitelist = {
 if whitelist[p.Name] then
 	game.StarterGui:SetCore("SendNotification", {
 Title = "Press [Y] To Toggle";
-Text = "By EvenPast7903";
+Text = "Edits by the australian";
 Duration = 15;
 })
 local vu = game:GetService("VirtualUser")
@@ -13641,7 +13641,7 @@ workspace.GameEvents.GoToMenu:FireServer(7) ]]
 
 --DNA Farm Options | Spell DINO NAMES CORRECTLY!
 local YoungAdult = "Brachiosaurus" --Has to be 97% Young Adult (preferably: Baro)
-local Baby = "Diplodocus" --Has to be Baby, any % will do (preferably: Pue, Leed, Shasta, Sauroposeidon)
+local Baby = "Futalognkosaurus" --Has to be Baby, any % will do (preferably: Pue, Leed, Shasta, Sauroposeidon)
 local no = false
 local yes = true
 
